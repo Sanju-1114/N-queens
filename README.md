@@ -109,4 +109,4 @@ Feel free to fork this repository and submit pull requests with improvements, su
 
 
 ## Contact
-For questions or suggestions, reach out via [GitHub Issues](https://github.com/Sanju-1114/N-Queens/issues).
+For questions or suggestions, reach out via [GitHub Issues](https://github.com/Sanju-1114/N-queens/issues).
