@@ -94,6 +94,7 @@ Q...
 .Q..
 ```
 
+
 Each configuration is printed as an NxN grid, with a blank line separating solutions.
 
 ## Usage
