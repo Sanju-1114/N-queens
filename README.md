@@ -13,6 +13,7 @@ Given an integer `n`, the program returns all distinct solutions to the N-Queens
 - `'Q'` represents a queen.
 - `'.'` represents an empty cell.
 
+
 **Example for n = 4:**
 ```
 [
@@ -57,8 +58,7 @@ To run the program, follow these steps:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Sanju-1114/N-Queens.git
-   cd N-Queens
+   git clone https://github.com/Sanju-1114/N-queens.git
    ```
 
 2. **Compile the Code**:
@@ -107,8 +107,6 @@ Feel free to fork this repository and submit pull requests with improvements, su
 - Optimizing the backtracking algorithm.
 - Supporting additional input formats.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or suggestions, reach out via [GitHub Issues](https://github.com/yourusername/N-Queens/issues).
+For questions or suggestions, reach out via [GitHub Issues](https://github.com/Sanju-1114/N-Queens/issues).
