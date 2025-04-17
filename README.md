@@ -57,8 +57,7 @@ To run the program, follow these steps:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Sanju-1114/N-Queens.git
-   cd N-Queens
+   git clone https://github.com/Sanju-1114/N-queens.git
    ```
 
 2. **Compile the Code**:
