@@ -14,6 +14,7 @@ Given an integer `n`, the program returns all distinct solutions to the N-Queens
 - `'.'` represents an empty cell.
 
 
+
 **Example for n = 4:**
 ```
 [
