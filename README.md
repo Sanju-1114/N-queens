@@ -97,6 +97,9 @@ Q...
 
 Each configuration is printed as an NxN grid, with a blank line separating solutions.
 
+This is very important question to understand the backtracking.
+
+
 ## Usage
 - **For Learning**: Study the `isSafe` and `nQueens` functions to understand backtracking and board validation.
 - **For Interviews**: The code is optimized for clarity and efficiency, making it a good reference for coding interviews.
