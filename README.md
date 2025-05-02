@@ -46,6 +46,7 @@ The solution uses a **backtracking** algorithm with the following steps:
 **Time Complexity**: O(N!), as it explores all possible queen placements.
 **Space Complexity**: O(N²) for the board and recursion stack.
 
+
 ## File Structure
 ```
 N-Queens/
