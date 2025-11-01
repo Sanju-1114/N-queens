@@ -48,14 +48,14 @@ The solution uses a **backtracking** algorithm with the following steps:
 **Time Complexity**: O(N!), as it explores all possible queen placements.
 **Space Complexity**: O(N²) for the board and recursion stack.
 
-
+---
 ## File Structure
 ```
 N-Queens/
 ├── N_Queens.cpp  # C++ solution for the N-Queens problem
 ├── README.md     # This file
 ```
-
+---
 ## Setup and Compilation
 To run the program, follow these steps:
 
