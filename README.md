@@ -3,7 +3,7 @@
 
 ## Overview
 This repository contains a C++ solution to the **N-Queens** problem, a classic backtracking problem from LeetCode. The goal is to place N queens on an NxN chessboard such that no two queens threaten each other. This solution uses a backtracking approach to generate all possible configurations.
-
+---
 ## Problem Description
 The N-Queens problem requires placing N queens on an NxN chessboard such that:
 - No two queens share the same row.
@@ -30,7 +30,7 @@ Given an integer `n`, the program returns all distinct solutions to the N-Queens
   ".Q.."]
 ]
 ```
-
+---
 ## Approach
 The solution uses a **backtracking** algorithm with the following steps:
 1. **Board Initialization**: Create an NxN board filled with `'.'` characters.
